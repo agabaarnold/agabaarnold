@@ -26,22 +26,7 @@
 - 💬 Ask me about inventory/stock systems, auth & permissions, or full-stack TypeScript architecture
 
 ---
-
-## Featured Projects
-
-### 🏬 [InvenEase — Inventory Management System](https://github.com/agabaarnold/ims-app)
-A full-featured, multi-warehouse inventory system built from scratch with production-grade architecture.
-- Complete domain model: reference data → product catalog → append-only stock ledger → transactional documents (purchase orders, goods receipts, sales orders, fulfillments, transfers, adjustments)
-- Role-based access control with 4 roles, plus comprehensive audit logging on every mutation
-- FIFO valuation and lot-level traceability on top of a derived stock-levels cache
-- **Stack:** TanStack Start (React 19, SSR) · Drizzle ORM · PostgreSQL · Better Auth · TanStack Query/Form
-
-### 🎓 [Lectern — Learning Management System](https://github.com/agabaarnold/lectern-lms)
-A full-stack LMS where instructors build courses with drag-and-drop chapters and lessons, students enroll and pay via Stripe, and progress is tracked from a personal dashboard.
-- **Stack:** TanStack Start · Drizzle ORM · Stripe
-
----
-
+<!--
 ## Tech I Work With
 
 <p>
@@ -49,6 +34,7 @@ A full-stack LMS where instructors build courses with drag-and-drop chapters and
 </p>
 
 ---
+-->
 
 ## GitHub Stats
 
@@ -57,9 +43,6 @@ A full-stack LMS where instructors build courses with drag-and-drop chapters and
 </div>
 
 ---
-
-## Focus
-Most of my work revolves around TypeScript, React, full-stack application architecture, databases, APIs, authentication, and business workflows.
 
 <p align="center"> 
   <a href="https://github.com/agabaarnold?tab=repositories"> 
