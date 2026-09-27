@@ -40,9 +40,6 @@ A full-featured, multi-warehouse inventory system built from scratch with produc
 A full-stack LMS where instructors build courses with drag-and-drop chapters and lessons, students enroll and pay via Stripe, and progress is tracked from a personal dashboard.
 - **Stack:** TanStack Start · Drizzle ORM · Stripe
 
-### ☀️ [Weather App](https://github.com/agabaarnold/weather-app)
-A clean, simple weather lookup website.
-
 ---
 
 ## Tech I Work With
@@ -55,13 +52,19 @@ A clean, simple weather lookup website.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=agabaarnold&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="Arnold's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agabaarnold&hide_border=true" alt="Arnold's GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=agabaarnold&hide=avg%2Cfollowers" alt="GitHub Stats Card" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=agabaarnold&layout=compact&hide_border=true" alt="Top Languages" />
+---
+
+## Focus
+Most of my work revolves around TypeScript, React, full-stack application architecture, databases, APIs, authentication, and business workflows.
+
+<p align="center"> 
+  <a href="https://github.com/agabaarnold?tab=repositories"> 
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /> 
+  </a> 
 </p>
 
 ---
