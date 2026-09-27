@@ -56,12 +56,12 @@ A clean, simple weather lookup website.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agabaarnold&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="Arnold's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=agabaarnold&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="Arnold's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agabaarnold&hide_border=true" alt="Arnold's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agabaarnold&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=agabaarnold&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
